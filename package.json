@@ -1,0 +1,14 @@
+{
+  "name": "prism-team",
+  "version": "0.1.0",
+  "description": "## Dependencies  - request - for http request for data  - htmlparser2 - parse html from request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eliot Baker",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.58.0"
+  }
+}
