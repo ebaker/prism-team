@@ -1,8 +1,10 @@
 # The Prism Team
 
 ## Running
-npm install
-node index.js
+```
+$ npm install
+$ node index.js
+```
 
 ## Design
 
