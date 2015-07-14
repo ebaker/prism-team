@@ -1,6 +1,7 @@
 # The Prism Team
 
 ## Running
+npm install
 node index.js
 
 ## Design
@@ -24,3 +25,10 @@ My primary goal was to output the data in the desired format. Using Chrome to
 ### Libraries
  - request - for http request for data
  - cheerio - parsing HTML data
+
+
+## Note
+While working on "The Prism Team" problem, the question says there are 34
+ employees but in counting the images on "About Us" I am seeing 38. Since
+ they are all in the same list, I am assuming a few employees have been
+ added to the team. 
